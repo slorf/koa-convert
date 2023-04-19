@@ -54,9 +54,6 @@
     "standard": "^14.3.4",
     "supertest": "^4.0.2"
   },
-  "engines": {
-    "node": ">= 10"
-  },
   "bugs": {
     "url": "https://github.com/gyson/koa-convert/issues"
   },
